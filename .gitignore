@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.alacritty.yml
+!.config
+!.config/i3
+!.config/i3/config
+!.config/i3status/
+!.config/i3status/config
+!.config/rofi
+!.config/rofi/max.rasi
+!.config/rofi/config
+!.vimrc
+!.zshrc
